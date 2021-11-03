@@ -1,0 +1,3 @@
+model for the student app:
+student: ID, name, courses(compulsory and elective), level.
+services:
